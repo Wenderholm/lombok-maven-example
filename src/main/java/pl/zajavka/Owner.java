@@ -1,2 +1,4 @@
-package pl.zajavka;public class Owner {
+package pl.zajavka;
+
+public class Owner {
 }
